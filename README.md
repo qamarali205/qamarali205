@@ -8,7 +8,7 @@ I've been coding for more than 1 years, learning different stacks having a taste
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [qamarali205@gmail.com](mailto:qamarali205@gmail.com)
-* 🧠  I'm learning Al Hadaf Technologies Pvt. Ltd.
+* 🧠  I'm learning React Js, Node Js, Next Js
 * 🤝  I'm open to collaborating on React Apps.
 
 <a href="https://www.github.com/qamarali205" target="_blank" rel="noreferrer"><img
