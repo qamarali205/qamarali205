@@ -9,7 +9,7 @@ I've been coding for more than 2 years, learning different stacks having a taste
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [qamarali205@gmail.com](mailto:qamarali205@gmail.com)
 * 🧠  I'm learning Nest.js
-* 🤝  I'm open to collaborating on React Apps.
+* 🤝  I'm open to collaborating on Node.js and React App.
 
 <a href="https://www.github.com/qamarali205" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/qamarali205?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/qamarali205" target="_blank" rel="noreferrer"><img
