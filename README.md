@@ -4,11 +4,11 @@ Hi 👋 My name is Qamar Ali
 Full stack web developer
 ------------------------
 
-I've been coding for more than 1 years, learning different stacks having a taste towards software . I have powered myself with frontend and backend.
+I've been coding for more than 2 years, learning different stacks having a taste towards software . I have powered myself with backend and frontend(integration).
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [qamarali205@gmail.com](mailto:qamarali205@gmail.com)
-* 🧠  I'm learning React Js, Node Js, Next Js
+* 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on React Apps.
 
 <a href="https://www.github.com/qamarali205" target="_blank" rel="noreferrer"><img
