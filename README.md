@@ -4,7 +4,7 @@ Hi 👋 My name is Qamar Ali
 Full stack web developer
 ------------------------
 
-I've been coding for more than 2 years, learning different stacks having a taste towards software . I have powered myself with backend and frontend(integration).
+I've been coding for more than 3 years, learning different stacks having a taste towards software . I have powered myself with backend and frontend(integration).
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [qamarali205@gmail.com](mailto:qamarali205@gmail.com)
